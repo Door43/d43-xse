@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xse:home|Door43 (xse)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xse|d43-xse repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xse/archive/master.zip|d43-xse.zip]]
+
+**Recent Changes**
+{{changes>ns = xse}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xse|Ethnologue data]]
+
